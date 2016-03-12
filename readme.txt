@@ -1,0 +1,1 @@
+Resources, including images, etc.

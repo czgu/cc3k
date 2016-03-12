@@ -1,0 +1,12 @@
+u pg3
+i pg2
+o pg1
+j pg4
+l pg0
+n pg5
+m pg6
+, pg7
+a ma
+s mp
+q sq
+r sr
